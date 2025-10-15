@@ -5,9 +5,11 @@ A full-stack application built to manage and position custom overlays (text and 
 The preview of youtube video with overlay
 <img width="1892" height="868" alt="image" src="https://github.com/user-attachments/assets/fe5440c9-d544-45f9-8cfa-f878b3304eae" />
 
-The preview of Local file video with overlay
-<img width="1912" height="102" alt="image" src="https://github.com/user-attachments/assets/9d200ddf-0e60-4ce8-8ed7-337c62a3bf5e" />
-<img width="1887" height="860" alt="image" src="https://github.com/user-attachments/assets/22ca4615-9c75-4194-9d43-303de3bb814e" />
+The preview of Local file video
+<img width="1892" height="851" alt="image" src="https://github.com/user-attachments/assets/6b179220-b4e7-47fa-ac77-09307b041131" />
+<img width="1848" height="160" alt="image" src="https://github.com/user-attachments/assets/0c4347d8-f380-4063-8938-c09762025280" />
+
+Overlay of the video
 
 
 
