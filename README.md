@@ -1,6 +1,10 @@
 🚀 Livestream Overlay Manager
 A full-stack application built to manage and position custom overlays (text and logos) on top of a video stream, complete with a persistent CRUD API.
 
+<img width="1887" height="865" alt="image" src="https://github.com/user-attachments/assets/25b88dca-0c70-4293-a754-c084e7c9b392" />
+
+
+
 Requirement  	      Status	                Implementation Details
 Tech Stack	        Complete	              React (Frontend), Python Flask (Backend), TinyDB (Database Placeholder for MongoDB)
 Video Streaming 	  Complete	              Accepts YouTube URL/ID as a stable placeholder for the RTSP URL requirement.
